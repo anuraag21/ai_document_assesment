@@ -13,3 +13,11 @@ AI-powered document quality assessment system with automatic corrections.
 git clone https://github.com/anuraag21/ai_document_assesment.git
 cd ai_document_assesment
 pip install -r requirements.txt
+```
+
+## Configuration
+Create .env file:
+```bash
+llm_open_ai=your_openai_key_here
+```
+
